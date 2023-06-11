@@ -1,0 +1,5 @@
+TFT_program.c:20:6:TFT_voidResetSequence	1
+TFT_program.c:35:6:TFT_voidInit	1
+TFT_program.c:54:6:TFT_voidDisplayImage	2
+TFT_program.c:94:13:TFT_voidWriteCommand	1
+TFT_program.c:104:13:TFT_voidWriteData	1

@@ -1,0 +1,5 @@
+../Src/TFT_program.c:20:6:TFT_voidResetSequence	8	static
+../Src/TFT_program.c:35:6:TFT_voidInit	8	static
+../Src/TFT_program.c:54:6:TFT_voidDisplayImage	24	static
+../Src/TFT_program.c:94:13:TFT_voidWriteCommand	16	static
+../Src/TFT_program.c:104:13:TFT_voidWriteData	16	static

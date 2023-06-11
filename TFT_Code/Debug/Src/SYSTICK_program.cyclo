@@ -1,0 +1,12 @@
+SYSTICK_program.c:23:6:STK_voidInit	1
+SYSTICK_program.c:39:6:STK_voidSetBusyWaitInterval	2
+SYSTICK_program.c:72:6:STK_voidSetSingleInterval	1
+SYSTICK_program.c:88:6:STK_voidSetPeriodicInterval_Call	1
+SYSTICK_program.c:106:6:STK_voidSetPeriodicInterval	1
+SYSTICK_program.c:121:6:STK_voidStopInterval	1
+SYSTICK_program.c:135:5:STK_u32GetElapsedTime	1
+SYSTICK_program.c:145:5:STK_u32GetRemainingTime	1
+SYSTICK_program.c:155:6:MSTK_voidEnable	1
+SYSTICK_program.c:161:6:STK_voidDisable	1
+SYSTICK_program.c:167:6:STK_voidSetCallBackRegisteration	1
+SYSTICK_program.c:172:6:SysTick_Handler	2

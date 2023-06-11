@@ -1,0 +1,12 @@
+../Src/SYSTICK_program.c:23:6:STK_voidInit	4	static
+../Src/SYSTICK_program.c:39:6:STK_voidSetBusyWaitInterval	16	static,ignoring_inline_asm
+../Src/SYSTICK_program.c:72:6:STK_voidSetSingleInterval	16	static
+../Src/SYSTICK_program.c:88:6:STK_voidSetPeriodicInterval_Call	16	static
+../Src/SYSTICK_program.c:106:6:STK_voidSetPeriodicInterval	16	static
+../Src/SYSTICK_program.c:121:6:STK_voidStopInterval	4	static
+../Src/SYSTICK_program.c:135:5:STK_u32GetElapsedTime	16	static
+../Src/SYSTICK_program.c:145:5:STK_u32GetRemainingTime	16	static
+../Src/SYSTICK_program.c:155:6:MSTK_voidEnable	4	static
+../Src/SYSTICK_program.c:161:6:STK_voidDisable	4	static
+../Src/SYSTICK_program.c:167:6:STK_voidSetCallBackRegisteration	16	static
+../Src/SYSTICK_program.c:172:6:SysTick_Handler	8	static
